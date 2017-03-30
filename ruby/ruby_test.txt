@@ -1,0 +1,2 @@
+SOURCE ubuntu/strusty64
+CMD /bin/bash
